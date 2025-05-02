@@ -23,7 +23,7 @@ const About: React.FC = () => {
                 <div className="w-full h-[400px] bg-gradient-to-tr from-slate-50 to-slate-100 dark:from-slate-800 dark:to-slate-700 
                 rounded-lg overflow-hidden shadow-xl">
                   <img
-                    src="src/data/profile.png"
+                    src="https://github.com/srikanthreddy-ai/sreekanth-portfolio/blob/a15555dc0f52be7eb7e93ac90714634f8f59812a/profile.png?raw=true"
                     alt="Sreekanth Polireddy"
                     className="w-full h-full object-cover"
                   />
